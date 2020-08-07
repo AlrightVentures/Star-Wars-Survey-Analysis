@@ -1,7 +1,5 @@
 # Star-Wars-Survey-Analysis
-While waiting for Star Wars: The Force Awakens to come out, the team at FiveThirtyEight became interested in answering some questions about Star Wars fans. In particular, they wondered: does the rest of America realize that “The Empire Strikes Back” is clearly the best of the bunch?
-
-The team at FiveThirtyEight collected data to answer one question: Does the rest of America realize that “The Empire Strikes Back” is the best of the Star Wars movies? To do this, they surveyed Star Wars fans using the online tool SurveyMonkey. They received 835 total responses, which I downloaded from their GitHub repository.
+The team at FiveThirtyEight collected data to answer one question: Does the rest of America think that “The Empire Strikes Back” is the best of the Star Wars movies? To do this, they surveyed Star Wars fans using the online tool SurveyMonkey. They received 835 total responses, which I downloaded from their GitHub repository.
 
 In this project I clean and explore the data set in Jupyter notebook.
 
